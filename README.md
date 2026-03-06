@@ -4,21 +4,24 @@
 ![Lento](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Lento.png)
 ## 👩‍💻팀원
 > 김채은
-- Figma를 활용한 UI/UX 디자인
-  - 회원가입, 장바구니, 주문, 쿠폰, 주소록, 예약, 배달, 공유, 리뷰, 고객 센터 페이지
+- UI/UX 디자인(Figma)
+  - 회원가입, 장바구니, 주문, 쿠폰, 주소록 
+  -  예약, 배달, 공유, 리뷰, 고객 센터 페이지
 - 프로젝트 기획 및 문서 작성
-- 웹 제작 및 구현 (아임웹-노코드툴)
-  - Brand, Furniture, Audio, Lighting, Service 제작
+- 웹 제작 및 구현 (아임웹 - No Code Tool)
+  - Brand, Furniture, Audio, Lighting, Service 
 > 박혜원
-- Figma를 활용한 UI/UX 디자인
-  - Main, 카테고리, 제품 상세페이지, Search, My page, 위시리스트, 상품 정렬 페이지
+- UI/UX 디자인(Figma)
+  - Main, Cateogry, Product Detail
+  - Search, My page, Wishlist, Product Sorting
 - 프로젝트 기획 및 문서 작성
-- 웹 제작 및 구현 (아임웹-노코드툴)
-  - Home(Main), Best, 상품 상세페이지 제작
+- 웹 제작 및 구현 (아임웹 - No Code Tool)
+  - Home(Main), Best, Product Detail
 ## 💬의미
-> 소품을 대여하는 과정에서 시간을 충분히 갖고, 신중하게 선택할 수 있다는 의미를 내포
+> 소품을 대여하는 과정에서 시간을 충분히 가지고 신중하게 선택할 수 있다는 의미
 - "Lend"의 변형으로, 소품을 빌리는 의미
 - Lento = 이탈리아어로 "천천히"라는 뜻 → 느림의 미학을 강조
+∴ 빠른 소비보다 여유로운 선택 가치를 강조한 브랜드
 ## 💡개요
 ![Concept](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Concept.jpg)
 ## 💻주요 기능
