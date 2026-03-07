@@ -39,10 +39,10 @@
 ## 💡개요
 ![Concept](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Concept.jpg)
 ## 🛠️기술 스택
-| <div align="center">기술/도구</div>          | 
-|---------------|
-| <div align="center">Figma<div>     | 
-| <div align="center">I'm Web (No-Code Tool)</div> | 
+| <div align="center">구분</div> | <div align="center">기술</div> |
+|-----|------|
+| <div align="center">Design</div> | <div align="center">Figma</div> |
+| <div align="center">Web Builder</div> | <div align="center">I'm Web (No-Code Tool)</div> |
 ## 💻주요 기능
 > 앱
 - Main
