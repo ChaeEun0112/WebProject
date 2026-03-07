@@ -23,9 +23,7 @@
 - Lento = 이탈리아어로 "천천히"라는 뜻 → 느림의 미학을 강조
 ∴ 빠른 소비보다 여유로운 선택 가치를 강조한 브랜드
 ## 💡개요
-> - Lento : 고가의 가구와 소품을 구매하기 전에 일정 기간 동안 대여할 수 있도록 하는 서비스
-> - 사용자는 자신의 라이프스타일에 맞는 인테리어 제품을 직접 경험한 후 구매 여부 결정 가능
-
+인테리어 소품을 구매하기 전 직접 경험해볼 수 있는 렌탈 기반 라이프스타일 서비스
 ![Concept](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Concept.jpg)
 ## 🛠️기술 스택
 | <div align="center">구분</div> | <div align="center">기술</div> |
@@ -52,14 +50,14 @@
 
 ![Web](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Web.png)
 ## ✒️디자인/문서
-> Figma
+### Figma
 - Wireframe
 
 https://www.figma.com/design/tLjI7HnVFW2RVU2TlJsHru/WireFrame?node-id=0-1&t=hiVhBj0Hojb5TkgQ-1
 - Prototype
 
 https://www.figma.com/proto/IlJOJc7mPW2yNzKSAv2xlz/Prototype?node-id=1-1250&t=RQW3GRiHDd6rYM56-1
-> Notion
+### Notion
 - 기획 문서
 
  https://www.notion.so/Lento-161976ad709080dc87c2ffa3975cee6f?source=copy_link
