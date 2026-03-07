@@ -27,8 +27,8 @@
 ## 🛠️기술 스택
 | 기술/도구          | 
 |---------------|
-| Figma     | 
-| I'm Web (No-Code Tool) | 
+| <div align="center">Figma<div>     | 
+| <div align="center">I'm Web (No-Code Tool)<div> | 
 ## 💻주요 기능
 > 앱
 - Main
