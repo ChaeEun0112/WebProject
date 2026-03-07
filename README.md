@@ -34,19 +34,19 @@
 | <div align="center">Documentation</div> | <div align="center">Notion</div> |
 ## 💻주요 화면
 > 📱Mobile UI Design
-- Main
+### Main
 ![Main](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Main.png)
-- Product
+### Product
 ![Product](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Product.png)
-- Category
+### Category
 ![Category](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Category.png)
-- Wish/Search
+### Wish/Search
 ![Wish, Search](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Wish%2C%20Search.png)
-- Cart/Reserve
+### Cart/Reserve
 ![Cart, Reserve](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Cart%2C%20Reserve.png)
-- Delivery
+### Delivery
 ![Delivery](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Delivery.png)
-- My page
+### My page
 ![My page](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/My%20page.png)
 > 🌐Web UI Design
 
