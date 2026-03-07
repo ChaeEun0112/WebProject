@@ -53,7 +53,7 @@
 ![Web](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Web.png)
 ## ✒️디자인/문서
 > Figma
-- WireFrame
+- Wireframe
 
 https://www.figma.com/design/tLjI7HnVFW2RVU2TlJsHru/WireFrame?node-id=0-1&t=hiVhBj0Hojb5TkgQ-1
 - Prototype
