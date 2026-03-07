@@ -98,7 +98,7 @@ https://www.figma.com/proto/IlJOJc7mPW2yNzKSAv2xlz/Prototype?node-id=1-1250&t=RQ
 ![My page](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/My%20page.png)
 > 웹
 
-![Web[]()](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Web.png)
+![Web](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Web.png)
 ## ✒️디자인/문서
 > Figma
 - WireFrame
