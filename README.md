@@ -1,5 +1,5 @@
 # Lento - 감성을 담은 소품 렌탈샵, 여유로운 선택
-> 웹 프로젝트 개발 기간 : 2024.9 ~ 2024.12
+> 웹 서비스 개발 기간 : 2024.9 ~ 2024.12
 
 ![Lento](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Lento.png)
 ## 👩‍💻팀원
@@ -30,6 +30,7 @@
 |-----|------|
 | <div align="center">Design</div> | <div align="center">Figma</div> |
 | <div align="center">Web Builder</div> | <div align="center">I'm Web (No-Code Tool)</div> |
+| <div align="center">Documentation</div> | <div align="center">Notion</div> |
 ## 💻주요 화면
 > 📱Mobile UI Design
 - Main
@@ -46,7 +47,7 @@
 ![Delivery](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Delivery.png)
 - My page
 ![My page](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/My%20page.png)
-> 🌐Web UI
+> 🌐Web UI Design
 
 ![Web](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Web.png)
 ## ✒️디자인/문서
