@@ -62,5 +62,5 @@ https://www.figma.com/proto/IlJOJc7mPW2yNzKSAv2xlz/Prototype?node-id=1-1250&t=RQ
 ### Notion
 - 기획 문서
 
- https://www.notion.so/Lento-161976ad709080dc87c2ffa3975cee6f?source=copy_link
+https://www.notion.so/Lento-161976ad709080dc87c2ffa3975cee6f?source=copy_link
 
